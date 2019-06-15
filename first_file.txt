@@ -1,3 +1,6 @@
 This is the first file
+<<<<<<< HEAD
 .Here is my first modification.This is to check the ammend option of git commit.
 Now let us play with branches.Now let us do 3 -Way merge.
+=======
+.
